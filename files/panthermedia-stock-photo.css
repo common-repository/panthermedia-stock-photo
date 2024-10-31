@@ -1,0 +1,627 @@
+/* 
+// $Author$
+// $Date$
+// $Id$
+// $Revision$
+// $Lastlog$
+*/
+.icon16-pm {
+   background-image: url('panthermedia-favicon.png') !important;
+   background-position: 0 0 !important;
+   background-repeat: no-repeat;
+   display: block;
+   width: 16px;
+   height: 16px;
+   float: left;
+   margin-top: 3px;
+}
+
+input {
+   border: 1px solid #ddd;
+}
+
+#wp-content-media-buttons a.add-pm-photo {
+   background-image: linear-gradient(to bottom,#fefefe,#EDC9AF);
+}
+
+#wp-content-media-buttons a.add-pm-photo img {
+   position: relative;
+   top: -1px;
+   left: -3px;
+   padding-right: 2px;
+   width: 16px;
+   height: 16px;
+}
+
+div.plugin_panthermedia_notice {
+   padding: 10px !important;
+   display: none;
+}
+
+div.plugin_panthermedia_notice span {
+   display: none;
+}
+
+div.plugin_panthermedia_notice span img {
+   margin-right: 10px;
+}
+
+
+/* options */
+table.panthermedia_option_table label {
+   display: block;
+}
+
+table.panthermedia_option_table td {
+   vertical-align: top;
+}
+
+table.panthermedia_option_table tbody tr {
+   border-top: 1px solid #aaa;
+}
+
+div.panthermedia_tab {
+   margin: 20px 0;
+}
+
+div.panthermedia_tab label {
+   margin-right: -1px;
+   border: 1px solid #ccc;
+   padding: 5px 10px;
+}
+
+div.panthermedia_tab label input {
+   display: none;
+}
+
+div.panthermedia_tab label.active {
+   background-color: #fff;
+   border-bottom: none;
+}
+
+div.panthermedia_tab_div {
+   display: none;
+}
+
+div.panthermedia_tab_div_credits font {
+   font-size: 9px;
+   color: green;
+}
+
+
+/* notice */
+.panthermedia_loading {
+   display: none;
+}
+
+.panthermedia_loading_backdrop {
+   position: fixed;
+   top: 0;
+   left: 0;
+   right: 0;
+   bottom: 0;
+   min-height: 360px;
+   background: #000;
+   opacity: 0.7;
+   z-index: 159900;
+}
+
+.panthermedia_loading_notice {
+   background-color: #fff;
+   position: fixed;
+   top: 100px;
+   left: 30px;
+   z-index: 160000;
+   width: 400px;
+   min-height: 150px;
+}
+
+.panthermedia_loading_notice div {
+   padding: 5px 10px;
+   display: table;
+   width: 380px;
+   height: 40px;
+   text-align: center;
+}
+
+.panthermedia_loading_notice font {
+   font-size: 20px;
+   font-weight: bold;
+}
+
+.panthermedia_loading_notice h2 {
+   padding: 0 10px;
+}
+
+.panthermedia_loading_notice h2 button {
+   float: right;
+   background: transparent;
+   border: none;
+   cursor: pointer;
+   display: none;
+}
+
+.panthermedia_loading_notice span {
+   display: none;
+   vertical-align: middle;
+}
+
+
+
+/* alert */
+.alert {
+   padding: 15px;
+   margin-bottom: 20px;
+   border: 1px solid transparent;
+   border-radius: 4px;
+   color: #333333;
+   background-color: #cccccc;
+   border-color: #999999;
+}
+
+.alert-danger {
+   color: #a94442;
+   background-color: #f2dede;
+   border-color: #ebccd1;
+}
+
+.alert-success {
+   color: #3c763d;
+   background-color: #dff0d8;
+   border-color: #d6e9c6;
+}
+
+#panthermedia_logout {
+   float: right;
+}
+
+
+.panthermedia_search_header .panthermedia_search_header_element {
+   float: left;
+   margin-right: 15px;
+   height: 30px;
+}
+
+.panthermedia_search_header label.panthermedia_search_header_element {
+   width: 200px;
+   margin-right: 5px;
+   line-height: 30px;
+   text-align: center;
+   border: 1px solid #ddd;
+   background-color: #fff;
+}
+
+.panthermedia_search_header label.panthermedia_search_header_element span {
+   color: #555;
+}
+
+.panthermedia_search_advanced {
+   width: 200px;
+   float: left;
+   margin-top: 20px;
+}
+
+.panthermedia_search_result {
+   float: left;
+   background-color: #fff;
+   margin-top: 20px;
+}
+
+.panthermedia_search_advanced .panthermedia_search_advanced_element {
+   border-bottom: 1px solid #fff;
+   margin-bottom: 5px;
+   padding-bottom: 5px;
+}
+.panthermedia_search_advanced .panthermedia_search_advanced_element div {
+   color: #444;
+   font-weight: 600;
+   font-size: 13px;
+   cursor: pointer;
+}
+.panthermedia_search_advanced .panthermedia_search_advanced_element div span {
+   color: #ccc;
+}
+
+.panthermedia_search_advanced .panthermedia_search_advanced_element label {
+   display: none;
+}
+
+/* media search */
+.pm_media_search {
+
+}
+
+.pm_search_input {
+   width: 400px;
+   height: 30px;
+}
+
+.pm_search_sort_block, .pm_search_filter_block {
+   float: left;
+   margin-left: 5px;
+}
+
+.pm_search_filter_block {
+   margin-left: 15px;
+   padding-top: 6px;
+}
+
+.pm_search_filter_block label {
+   margin-right: 15px;
+}
+
+.pm_search_clear {
+   clear: both;
+}
+
+
+
+/* images */
+.pm_search_images {
+   border: 1px solid #E1E1E1;
+}
+.panthermedia_thumbnail {
+   float: left;
+   width: 175px;
+   height: 190px;
+   border-right: 1px solid #E1E1E1;
+   border-bottom: 1px solid #E1E1E1;
+}
+.panthermedia_thumbnail a {
+   text-decoration: none;
+}
+.panthermedia_thumbnail_div {
+   height: 170px;
+   overflow: hidden;
+}
+.panthermedia_thumbnail_title {
+   text-align: left;
+   color: #777;
+   overflow: hidden;
+   white-space: nowrap;
+   padding: 0 5px;
+}
+
+
+
+/* paging */
+div.panthermedia_paging .panthermedia_paging_content {
+   width: 100%;
+   height: 50px;
+   margin: 0px;
+   color: #555555;
+   font-size: 13px;
+}
+div.panthermedia_paging .panthermedia_page {
+   display: block;
+   width: 50px;
+   height: 50px;
+   text-decoration: none;
+}
+div.panthermedia_paging .panthermedia_page:hover {
+   background-color: #000;
+}
+div.panthermedia_paging .panthermedia_paging_back {
+   float: left;
+   background-image: url('pager_back.png');
+   border-right: 1px solid #E1E1E1;
+}
+div.panthermedia_paging .panthermedia_paging_next {
+   float: right;
+   background-image: url('pager_next.png');
+   border-left: 1px solid #E1E1E1;
+}
+div.panthermedia_paging .panthermedia_paging_info {
+   float: left;
+   height: 50px;
+   line-height: 50px;
+   padding: 0px 15px;
+}
+div.panthermedia_paging .panthermedia_paging_pager {
+   float: right;
+   padding: 10px 20px 0;
+}
+div.panthermedia_paging .panthermedia_paging_pager img {
+   position: relative;
+   top: 3px;
+}
+div.panthermedia_paging .panthermedia_paging_pager button {
+   display: none;
+   border-bottom-right-radius: 0;
+   border-top-right-radius: 0;
+   height: 27px;
+}
+div.panthermedia_paging .panthermedia_paging_pager input {
+   margin-left: 0;
+}
+
+
+
+/* detail new */
+.pm_media_detail, .pm_media_detail_h1 {
+   margin-right: 20px;
+}
+
+.pm_media_detail_h1 {
+   display: none;
+}
+
+.panthermedia_detail {
+   background-color: #fff;
+   padding: 20px;
+}
+
+.panthermedia_detail_headline {
+   border-bottom: 1px solid #E1E1E1;
+}
+
+.panthermedia_detail_headline div {
+   height: 35px;
+}
+
+.panthermedia_detail_headline div h1 {
+   float: left;
+   color: #888888;
+   font-size: 14px;
+   padding: 0 20px;
+   font-weight: 600;
+   line-height: 30px;
+   margin: 0;
+}
+
+.panthermedia_detail_headline div button {
+   float: left;
+}
+
+.panthermedia_detail_headline div button.panthermedia_detail_reload, 
+.panthermedia_detail_headline div button.panthermedia_download_reload {
+   float: right;
+}
+
+.panthermedia_detail_image {
+   float: left;
+   width: 450px;
+   text-align: center;
+   margin-right: 70px;
+   margin-bottom: 30px;
+}
+
+.panthermedia_detail_image a {
+   text-decoration: none;
+   color: #555555;
+   font-size: 14px;
+   font-weight: 400;
+}
+
+.panthermedia_detail_right {
+   float: left;
+   font-size: 14px;
+   font-weight: 400;
+   width: 450px;
+}
+
+.panthermedia_detail_image_info {
+   margin-bottom: 10px;
+}
+
+.panthermedia_detail_image_info h3, .panthermedia_detail_image_info h4 {
+   font-size: 14px;
+   font-weight: 400;
+   margin: 0;
+}
+
+.panthermedia_detail_image_info a {
+   display: inline;
+   font-size: 14px;
+   font-weight: 400;
+   color: #555555;
+   text-decoration: none;
+}
+
+.panthermedia_detail_image_info a:hover {
+   text-decoration: underline;
+}
+
+.panthermedia_detail_licenses table {
+   width: 450px;
+}
+
+.panthermedia_detail_licenses table tbody tr {
+   cursor: pointer;
+}
+
+.panthermedia_detail_licenses table td {
+   padding: 5px;
+}
+
+.panthermedia_detail_licenses .panthermedia_tab label {
+   background-color: #F4F4F4;
+}
+
+.panthermedia_detail_licenses .panthermedia_tab label:hover {
+   background-color: #E9E9E9;
+}
+
+.panthermedia_detail_licenses .panthermedia_tab label.active {
+   padding-top: 20px;
+   font-weight: 500;
+}
+
+.panthermedia_detail_licenses table {
+   width: 450px;
+}
+
+.panthermedia_detail_licenses table tbody tr:hover {
+   background-color: #F4F4F4;
+}
+
+.panthermedia_detail_licenses table th {
+   padding: 5px;
+   font-size: 14px;
+   font-weight: normal;
+   font-style: italic;
+   border-bottom: 1px solid #E1E1E1;
+}
+
+.panthermedia_detail_licenses table td {
+   padding: 5px;
+   border-bottom: 1px solid #E1E1E1;
+}
+
+.panthermedia_detail_licenses table tr:nth-last-child(1) td {
+   border-bottom: none;
+}
+
+.panthermedia_detail_licenses_footer {
+   margin-top: 15px;
+   text-align: right;
+   float: right;
+}
+
+.panthermedia_detail_licenses_footer button.panthermedia_buy_media {
+   margin: 15px 0;
+}
+
+.panthermedia_detail_buy_credits {
+   float: left;
+   margin-top: 47px;
+}
+
+.panthermedia_license_packets {
+   margin-bottom: 25px;
+   font-size: 11px;
+}
+
+.panthermedia_license_packets h4 {
+   margin: 0;
+   font-size: 13px;
+}
+
+.panthermedia_license_marking {
+   background-color: #000000;
+   padding: 15px;
+   margin-bottom: 20px;
+   color: #FFFFFF;
+}
+
+.panthermedia_license_marking h4 {
+   font-size: 16px;
+   margin: 0px;
+   margin-bottom: 10px;
+}
+
+.panthermedia_license_marking button {
+}
+
+.panthermedia_license_marking div {
+}
+
+.panthermedia_premium_rm {
+   background-color: #000000;
+   padding: 8px;
+   color: #ffffff;
+   margin: 20px 0;
+}
+
+.panthermedia_premium_rm img {
+   float: left;
+}
+
+.panthermedia_premium_rm div {
+   margin-left: 50px;
+   padding: 10px 0;
+}
+
+/* userinfo */
+.panthermedia_userinfo div.panthermedia_profile, .panthermedia_userinfo div.panthermedia_deposits {
+   float: left;
+   width: 49%;
+}
+.panthermedia_userinfo div.panthermedia_profile label {
+   margin-bottom: 10px;
+   display: block;
+   cursor: auto;
+}
+.panthermedia_userinfo div.panthermedia_deposits div {
+   margin-bottom: 20px;
+}
+
+.panthermedia_download_info {
+   margin-top: 20px;
+}
+
+#corporateImages {
+   display: none;
+}
+#corporateImages select {
+   vertical-align: initial;
+}
+
+#panthermedia_error_info {
+   color: #f00;
+}
+
+.panthermedia_license table {
+   width: 100%;
+}
+.panthermedia_license table td, .panthermedia_license table th {
+   vertical-align: top;
+   border-left: 1px dotted #B3BABF;
+   border-bottom: 1px solid #BBBBBB;
+   padding: 10px;
+}
+.panthermedia_license table td:first-child, .panthermedia_license table th:first-child {
+   text-align: center;
+   width: 175px;
+   border-left: none;
+}
+.panthermedia_license table tbody tr:nth-child(odd) {
+   background-color: #F0F0F0;
+}
+.panthermedia_license table td:last-child {
+   text-align: right;
+}
+.panthermedia_license table td:last-child a {
+   min-width: 150px;
+   text-align: center;
+   border-radius: 0;
+}
+
+
+/* media tab */
+.panthermedia_wrap_tab {
+   padding-top: 10px;
+}
+.panthermedia_wrap_tab h1 {
+   display: none;
+}
+.panthermedia_wrap_tab form#pm_search_filter {
+   padding-left: 5px;
+}
+.panthermedia_wrap_tab div.panthermedia_detail_headline {
+   padding: 0 10px;
+}
+.panthermedia_wrap_tab div.panthermedia_detail_image {
+   margin-right: 60px;
+}
+.panthermedia_wrap_tab .panthermedia_search_header .panthermedia_search_header_element {
+   margin-right: 0px;
+   margin-left: 15px;
+}
+.panthermedia_wrap_tab .panthermedia_search_header label.panthermedia_search_header_element {
+   margin-left: 0px;
+}
+
+/* sticktooltip */
+.stickytooltip {
+   border: none !important;
+}
+
+/* cache deactivated */
+.panthermedia_without_cache {
+   position: fixed;
+   top: 50px;
+   right: 10px;
+   background-color: rgba(100,0,0,0.5);
+   color: #fff;
+}

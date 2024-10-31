@@ -1,0 +1,583 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PantherMedia Stock Photo 1.6\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;\n"
+"Last-Translator: \n"
+
+#. translators: paging - Images from, to and total
+#. Example: 10 to 20 of 200
+msgid "%d to %d of %s"
+msgstr ""
+
+msgid "%s Image could not be loaded."
+msgid_plural "%s Images could not be loaded."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: count of remaining downloads
+#. Example: (of 90/Month)
+msgid "(of %d%s)"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+#. translators: User Role
+msgid "Administrator"
+msgstr ""
+
+msgid "Advanced Search"
+msgstr ""
+
+msgid "API token valid until"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+#. translators: AJAX "confirm action"
+msgid "Are you sure?"
+msgstr ""
+
+#. translators: User Role
+msgid "Author"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Buy %s"
+msgstr ""
+
+msgid "Cache"
+msgstr ""
+
+msgid "Cache cleared"
+msgstr ""
+
+msgid "Cannot send ajax request."
+msgstr ""
+
+msgid "Clear cache"
+msgstr ""
+
+msgid "Commercial and editorial use"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+#. translators: currency from PantherMedia
+#. Type of purchase
+msgid "Credits"
+msgstr ""
+
+msgid "Customer No"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Detail"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download this picture in the following sizes"
+msgstr ""
+
+msgid "Duration of an API token in days"
+msgstr ""
+
+#. translators: User Role
+msgid "Editor"
+msgstr ""
+
+msgid "Editorial use"
+msgstr ""
+
+msgid "Failed."
+msgstr ""
+
+msgid "File available."
+msgstr ""
+
+msgid "File Type"
+msgstr ""
+
+msgid "File downloaded successfully"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Forbidden."
+msgstr ""
+
+msgid "Free Hires Download"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Get filter"
+msgstr ""
+
+msgid "Get search filter from %s"
+msgstr ""
+
+msgid "HiRes Download"
+msgstr ""
+
+msgid "If YES, the downloaded image has a watermark and no deposit is settled."
+msgstr ""
+
+msgid "Image-id"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "Inches"
+msgstr ""
+
+msgid "Internal Server Error"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+#. translators: Type of purchase
+msgid "Marking"
+msgstr ""
+
+msgid "Media"
+msgstr ""
+
+msgid "Media per page"
+msgstr ""
+
+msgid "Modelrelease exists"
+msgstr ""
+
+msgid "Modelrelease does not exist"
+msgstr ""
+
+msgid "My images"
+msgstr ""
+
+msgid "My Media"
+msgstr ""
+
+#. translators: Name of the license types
+msgid "Name"
+msgstr ""
+
+msgid "Nevertheless you see the info how much deposit would be settled"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No content found."
+msgstr ""
+
+msgid "Not found."
+msgstr ""
+
+msgid "Not logged in"
+msgstr ""
+
+msgid "OAuth Login"
+msgstr ""
+
+msgid "OAuth provides client applications a secure delegated access to server resources on behalf of a resource owner without sharing their credentials."
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+#. translators: Type of purchase
+msgid "Packet"
+msgstr ""
+
+#. translators: paging - selecting page
+#. Example: Page [BUTTON][INPUT] of 100
+msgid "Page %s%s of %s"
+msgstr ""
+
+msgid "Payment required."
+msgstr ""
+
+msgid "Pixel"
+msgstr ""
+
+msgid "Please select license"
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Price"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Private or Public"
+msgstr ""
+
+msgid "Private: Each member has their own %s account"
+msgstr ""
+
+msgid "Propertyrelease exists"
+msgstr ""
+
+msgid "Propertyrelease does not exist"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Public: All members use the same %s account"
+msgstr ""
+
+msgid "Purchase"
+msgstr ""
+
+msgid "Purchased images"
+msgstr ""
+
+msgid "Register now"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Remaining"
+msgstr ""
+
+msgid "Reset all settings to default"
+msgstr ""
+
+msgid "Reset to default filter settings"
+msgstr ""
+
+msgid "Resources no longer available."
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Script-Error."
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search filter"
+msgstr ""
+
+msgid "Search for Photos, Vectors and Illustrations"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings saved."
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show media"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+#. translators: option - roles for using this plugin
+msgid "Smallest role to use the add-function?"
+msgstr ""
+
+msgid "Space used"
+msgstr ""
+
+msgid "Stock photo"
+msgstr ""
+
+#. translators: Type of purchase
+msgid "Subscription"
+msgstr ""
+
+msgid "Success."
+msgstr ""
+
+msgid "Surname"
+msgstr ""
+
+msgid "Test mode is active!"
+msgstr ""
+
+msgid "This image can be licensed upon request later."
+msgstr ""
+
+msgid "Too many Request."
+msgstr ""
+
+msgid "Token valid until %s."
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Try it again later."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Using test mode"
+msgstr ""
+
+msgid "Valid until"
+msgstr ""
+
+msgid "Vector"
+msgstr ""
+
+msgid "We found %s images."
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You are logged in as %s."
+msgstr ""
+
+msgid "You are no longer logged into %s."
+msgstr ""
+
+msgid "You can see a list of all your free layout downloads at %s"
+msgstr ""
+
+msgid "You must be logged in."
+msgstr ""
+
+msgid "Your account"
+msgstr ""
+
+msgid "Your credits"
+msgstr ""
+
+msgid "Your download-quota"
+msgstr ""
+
+#. translators: Size of the license
+msgid "a4"
+msgstr ""
+
+#. translators: Size of the license
+msgid "a6"
+msgstr ""
+
+#. translators: Size of the license
+msgid "blog"
+msgstr ""
+
+#. translators: Size of the license
+msgid "web"
+msgstr ""
+
+#. translators: Size of the license
+msgid "xxl"
+msgstr ""
+
+#. translators: License type
+msgid "Standard license"
+msgstr ""
+
+#. translators: License type
+msgid "corporate"
+msgstr ""
+
+#. translators: License type
+msgid "merchandising"
+msgstr ""
+
+#. translators: License type
+msgid "allext"
+msgstr ""
+
+msgid "Included in %s"
+msgstr ""
+
+#. translators: account-information
+msgid "Corporate account"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Can you see media from others"
+msgstr ""
+
+#. translators: config settings from corporate account
+msgid "Administration"
+msgstr ""
+
+#. translators: select-option for corporate images
+msgid "From all users"
+msgstr ""
+
+#. translators: select-option for corporate images
+msgid "Only from me"
+msgstr ""
+
+msgid "Media info"
+msgstr ""
+
+msgid "License info"
+msgstr ""
+
+#. translators: my media - media info
+msgid "Type of media"
+msgstr ""
+
+#. translators: my media - button
+msgid "Available sizes"
+msgstr ""
+
+#. translators: my media - button
+msgid "License Proof"
+msgstr ""
+
+msgid "Only images from %s can be downloaded in testmode."
+msgstr ""
+
+msgid "http://www.panthermedia.net"
+msgstr "http://www.panthermedia.net"
+
+msgid "PantherMedia"
+msgstr "PantherMedia"
+
+msgid "PantherMedia Stock Photo WordPress Plugin"
+msgstr "PantherMedia Stock Photo WordPress Plugin"
+
+msgid "PantherMedia Stock Photo"
+msgstr "PantherMedia Stock Photo"
+
+msgid "test-download not possible with partner media"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "Click on %s to connect the plugin with your PantherMedia account and get access to all your files and images."
+msgstr ""
+
+msgid "This image is part of our higher priced Premium Collection."
+msgstr ""
+
+msgid "This is a rights-managed (RM) image."
+msgstr ""
+
+msgid "Rights-Managed"
+msgstr ""
+
+msgid "Premium"
+msgstr ""
+
+msgid "RF"
+msgstr ""
+
+msgid "RM"
+msgstr ""
+
+#. translators: License type
+msgid "Extended User Group-License"
+msgstr ""
+
+#. translators: License type
+msgid "Merchandising-License"
+msgstr ""
+
+#. translators: License type
+msgid "All-in-one-pack-License"
+msgstr ""
+
+#. translators: License type
+msgid "Standard (one country)"
+msgstr ""
+
+#. translators: License type
+msgid "Up to 5 countries"
+msgstr ""
+
+#. translators: License type
+msgid "One continent"
+msgstr ""
+
+#. translators: License type
+msgid "Worldwide"
+msgstr ""
+
+#. translators: License type
+msgid "region"
+msgstr ""
+
+#. translators: License type
+msgid "kontinent"
+msgstr ""
+
+#. translators: License type
+msgid "welt"
+msgstr ""
+
+msgid "This file is not available with %s"
+msgstr ""
+
+msgid "Cache is deactivated"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "6 monate"
+msgstr ""
+
+msgid "1 jahr"
+msgstr ""
+
+msgid "2 jahre"
+msgstr ""
+
+msgid "3 jahre"
+msgstr ""
+
+msgid "5 jahre"
+msgstr ""

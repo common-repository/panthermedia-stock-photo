@@ -1,0 +1,397 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PantherMedia Stock Photo 1.0.0\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Last-Translator: \n"
+
+#. Using: size, people, category, copyspace and ranking
+msgid "All"
+msgstr "All"
+
+#. translators: filter type
+msgid "sort"
+msgstr "Sort"
+
+#. translators: filter type
+msgid "type"
+msgstr "Type"
+
+#. translators: filter type
+msgid "license"
+msgstr "License"
+
+#. translators: filter type
+msgid "collection"
+msgstr "Collection"
+
+#. translators: filter type
+msgid "contributor"
+msgstr "Contributor"
+
+#. translators: filter type
+msgid "price"
+msgstr "Price"
+
+#. translators: filter type
+msgid "size"
+msgstr "Size"
+
+#. translators: filter type
+msgid "orientation"
+msgstr "Orientation"
+
+#. translators: filter type
+msgid "people_number"
+msgstr "People Number"
+
+#. translators: filter type
+msgid "people_ethnicity"
+msgstr "People Ethnicity"
+
+#. translators: filter type
+msgid "people_age"
+msgstr "People Age"
+
+#. translators: filter type
+msgid "people_gender"
+msgstr "People Gender"
+
+#. translators: filter type
+msgid "category"
+msgstr "Category"
+
+#. translators: filter type
+msgid "author"
+msgstr "Author"
+
+#. translators: filter type
+msgid "model"
+msgstr "Model"
+
+#. translators: filter type
+msgid "color"
+msgstr "Color"
+
+#. translators: filter type
+msgid "color_tolerance"
+msgstr "Color Tolerance"
+
+#. translators: filter type
+msgid "copyspace"
+msgstr "Copyspace"
+
+#. translators: filter type
+msgid "isolated"
+msgstr "Isolated"
+
+#. translators: filter type
+msgid "adult_content_filter"
+msgstr "Adult Content Filter"
+
+#. translators: filter type
+msgid "ranking"
+msgstr "Ranking"
+
+#. translators: option sort
+msgid "Relevance"
+msgstr "Relevance"
+
+#. translators: option sort
+msgid "Top-sellers"
+msgstr "Topsellers"
+
+#. translators: option sort
+msgid "Date"
+msgstr "Date"
+
+#. translators: option type
+msgid "All files"
+msgstr "All files"
+
+#. translators: option type
+msgid "Images"
+msgstr "Images"
+
+#. translators: option type
+msgid "Illustrations"
+msgstr "Illustrations"
+
+#. translators: option type
+msgid "Vectors"
+msgstr "Vectors"
+
+#. translators: option licence
+msgid "Commercial"
+msgstr "Commercial"
+
+#. translators: option licence
+msgid "Editorial"
+msgstr "Editorial"
+
+#. translators: option collection
+msgid "packet"
+msgstr "Packet"
+
+#. translators: option collection
+msgid "subscription"
+msgstr "Subscription"
+
+#. translators: option collection
+msgid "standard"
+msgstr "Standard"
+
+#. translators: option collection
+msgid "premium"
+msgstr "Premium"
+
+#. translators: option collection
+msgid "rightsmanaged"
+msgstr "Rights-Managed"
+
+#. translators: option price
+msgid "low price"
+msgstr "Low Price"
+
+#. translators: option price
+msgid "medium price"
+msgstr "Medium Price"
+
+#. translators: option price
+msgid "high price"
+msgstr "High Price"
+
+#. translators: option size
+msgid "minimum 2480 pixel"
+msgstr "Minimum 2480 pixel"
+
+#. translators: option size
+msgid "minimum 3508 pixel"
+msgstr "Minimum 3508 pixel"
+
+#. translators: option size
+msgid "minimum 5600 pixel"
+msgstr "Minimum 5600 pixel"
+
+#. translators: option orientation
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#. translators: option orientation
+msgid "Vertical"
+msgstr "Vertical"
+
+#. translators: option orientation
+msgid "Square"
+msgstr "Square"
+
+#. translators: option orientation
+msgid "Panorama"
+msgstr "Panorama"
+
+#. translators: option people number
+msgid "No people"
+msgstr "No People"
+
+#. translators: option people number
+msgid "With people"
+msgstr "With People"
+
+#. translators: option people number
+msgid "1 Person"
+msgstr "1 Person"
+
+#. translators: option people number
+msgid "2 People"
+msgstr "2 People"
+
+#. translators: option people number
+msgid "3 People"
+msgstr "3 People"
+
+#. translators: option people number
+msgid "4 People"
+msgstr "4 People"
+
+#. translators: option people number
+msgid "5 People or more"
+msgstr "5 People or more"
+
+#. translators: option people ethnicity
+msgid "European / Caucasian"
+msgstr "European / Caucasian"
+
+#. translators: option people ethnicity
+msgid "American"
+msgstr "American"
+
+#. translators: option people ethnicity
+msgid "Asian/Middle East"
+msgstr "Asian/Middle East"
+
+#. translators: option people ethnicity
+msgid "African"
+msgstr "African"
+
+#. translators: option people ethnicity
+msgid "Australian/Oceanian"
+msgstr "Australian/Oceanian"
+
+#. translators: option people ethnicity
+msgid "Multi-ethnic"
+msgstr "Multi-ethnic"
+
+#. translators: option people ethnicity
+msgid "Other"
+msgstr "Other"
+
+#. translators: option people age
+msgid "Babies"
+msgstr "Babies"
+
+#. translators: option people age
+msgid "Kids"
+msgstr "Kids"
+
+#. translators: option people age
+msgid "Teenager"
+msgstr "Teenager"
+
+#. translators: option people age
+msgid "Adult"
+msgstr "Adult"
+
+#. translators: option people age
+msgid "Seniors"
+msgstr "Seniors"
+
+#. translators: option people gender
+msgid "Female"
+msgstr "Female"
+
+#. translators: option people gender
+msgid "Male"
+msgstr "Male"
+
+#. translators: option category
+msgid "Animals"
+msgstr "Animals"
+
+#. translators: option category
+msgid "Architecture"
+msgstr "Architecture"
+
+#. translators: option category
+msgid "Food"
+msgstr "Food"
+
+#. translators: option category
+msgid "Entertainment"
+msgstr "Entertainment"
+
+#. translators: option category
+msgid "Graphics"
+msgstr "Graphics"
+
+#. translators: option category
+msgid "Lifestyle"
+msgstr "Lifestyle"
+
+#. translators: option category
+msgid "Nature"
+msgstr "Nature"
+
+#. translators: option category
+msgid "People"
+msgstr "People"
+
+#. translators: option category
+msgid "Business"
+msgstr "Business"
+
+#. translators: option category
+msgid "Symbols"
+msgstr "Symbols"
+
+#. translators: option category
+msgid "Society"
+msgstr "Society"
+
+#. translators: option category
+msgid "Sports"
+msgstr "Sports"
+
+#. translators: option category
+msgid "Technology"
+msgstr "Technology"
+
+#. translators: option category
+msgid "Transport"
+msgstr "Transport"
+
+#. translators: option category
+msgid "Travel"
+msgstr "Travel"
+
+#. translators: option category
+msgid "Objects"
+msgstr "Objects"
+
+#. translators: option author
+msgid "author_username"
+msgstr "Author Username"
+
+#. translators: option model
+msgid "model_id"
+msgstr "Model ID"
+
+#. translators: option color tolerance
+msgid "Exact (less results)"
+msgstr "Exact (less results)"
+
+#. translators: option color tolerance
+msgid "Standard"
+msgstr "Standard"
+
+#. translators: option color tolerance
+msgid "Approx (more results)"
+msgstr "Approx (more results)"
+
+#. translators: option copyspace
+msgid "small copyspace"
+msgstr "Small Copyspace"
+
+#. translators: option copyspace
+msgid "medium copyspace"
+msgstr "Medium Copyspace"
+
+#. translators: option copyspace
+msgid "large copyspace"
+msgstr "Large Copyspace"
+
+#. translators: option isolated
+msgid "Isolated object"
+msgstr "Isolated Object"
+
+#. translators: option adult
+msgid "Hide erotic and violent content"
+msgstr "Hide erotic and violent Content"
+
+#. translators: option ranking
+msgid "Good"
+msgstr "Good"
+
+#. translators: option ranking
+msgid "Very good"
+msgstr "Very good"
+
+#. translators: option ranking
+msgid "Extremely good"
+msgstr "Extremely good"

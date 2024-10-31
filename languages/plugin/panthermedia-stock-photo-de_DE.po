@@ -1,0 +1,584 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: PantherMedia Stock Photo 1.6\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+
+#. translators: paging - Images from, to and total
+#. Example: 10 to 20 of 200
+msgid "%d to %d of %s"
+msgstr "%d bis %d von %s"
+
+msgid "%s Image could not be loaded."
+msgid_plural "%s Images could not be loaded."
+msgstr[0] "%s Bild konnte nicht geladen werden."
+msgstr[1] "%s Bilder konnten nicht geladen werden."
+
+#. translators: count of remaining downloads
+#. Example: (of 90/Month)
+msgid "(of %d%s)"
+msgstr "(von %d%s)"
+
+msgid "Account"
+msgstr "Mein Konto"
+
+#. translators: User Role
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Advanced Search"
+msgstr "Erweiterte Suche"
+
+msgid "API token valid until"
+msgstr "Dauer des Logins"
+
+msgid "Active"
+msgstr "Aktiv"
+
+#. translators: AJAX "confirm action"
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#. translators: User Role
+msgid "Author"
+msgstr "Autor"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Buy %s"
+msgstr "%s kaufen"
+
+msgid "Cache"
+msgstr "Cache"
+
+msgid "Cache cleared"
+msgstr "Cache gelöscht"
+
+msgid "Cannot send ajax request."
+msgstr "Kann AJAX-Request nicht senden."
+
+msgid "Clear cache"
+msgstr "Cache leeren"
+
+msgid "Commercial and editorial use"
+msgstr "Kommerzielle und redaktionelle Nutzung"
+
+msgid "Company"
+msgstr "Firma"
+
+#. translators: currency from PantherMedia
+#. Type of purchase
+msgid "Credits"
+msgstr "Credits"
+
+msgid "Customer No"
+msgstr "Kunden-Nr"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Detail"
+msgstr "Detailansicht"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Download this picture in the following sizes"
+msgstr "Laden Sie dieses Bild in den folgenden Größen herunter"
+
+msgid "Duration of an API token in days"
+msgstr "Aus Sicherheitsgründen werden sogenannte \"Tokens\" für den sicheren Zugriff auf PantherMedia nach einer bestimmten Anzahl an Tagen gelöscht"
+
+#. translators: User Role
+msgid "Editor"
+msgstr "Redakteur"
+
+msgid "Editorial use"
+msgstr "Redaktionelle Nutzung"
+
+msgid "Failed."
+msgstr "Fehlgeschlagen."
+
+msgid "File available."
+msgstr "Datei vorhanden."
+
+msgid "File Type"
+msgstr "Dateityp"
+
+msgid "File downloaded successfully"
+msgstr "Datei erfolgreich heruntergeladen"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "Forbidden."
+msgstr "Fehlende Berechtigung."
+
+msgid "Free Hires Download"
+msgstr "Freier HiRes download"
+
+msgid "General"
+msgstr "Allgemein"
+
+msgid "Get filter"
+msgstr "Filter laden"
+
+msgid "Get search filter from %s"
+msgstr "Suchfilter von %s laden"
+
+msgid "HiRes Download"
+msgstr "HiRes Download"
+
+msgid "If YES, the downloaded image has a watermark and no deposit is settled."
+msgstr "Wenn JA, enthält das heruntergeladene Bild ein Wasserzeichen und es wird keine Zahlung getätigt bzw. kein Guthaben abgezogen."
+
+msgid "Image-id"
+msgstr "Bild-Nr."
+
+msgid "Inactive"
+msgstr "Inaktiv"
+
+msgid "Inches"
+msgstr "Inches"
+
+msgid "Internal Server Error"
+msgstr "Interner Serverfehler"
+
+msgid "Loading"
+msgstr "Wird geladen"
+
+msgid "Login"
+msgstr "Anmelden"
+
+msgid "Logout"
+msgstr "Abmelden"
+
+#. translators: Type of purchase
+msgid "Marking"
+msgstr "Marking"
+
+msgid "Media"
+msgstr "Medien"
+
+msgid "Media per page"
+msgstr "Medien pro Seite"
+
+msgid "Modelrelease exists"
+msgstr "Modelrelease vorhanden"
+
+msgid "Modelrelease does not exist"
+msgstr "Modelrelease nicht vorhanden"
+
+msgid "My images"
+msgstr "Meine Bilder"
+
+msgid "My Media"
+msgstr "Meine Dateien"
+
+#. translators: Name of the license types
+msgid "Name"
+msgstr "Name"
+
+msgid "Nevertheless you see the info how much deposit would be settled"
+msgstr "Dennoch erhalten Sie die Information, wie viel Kaution bezahlt werden würde."
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No content found."
+msgstr "Kein Inhalt gefunden."
+
+msgid "Not found."
+msgstr "Seite nicht gefunden."
+
+msgid "Not logged in"
+msgstr "Nicht eingeloggt"
+
+msgid "OAuth Login"
+msgstr "Anmelden"
+
+msgid "OAuth provides client applications a secure delegated access to server resources on behalf of a resource owner without sharing their credentials."
+msgstr "Die Anmeldung wird über eine gesicherte Verbindung (OAuth) aufgebaut. Ihre Anmeldeinformationen werden dabei geschützt."
+
+msgid "Option"
+msgstr "Option"
+
+#. translators: Type of purchase
+msgid "Packet"
+msgstr "Paket"
+
+#. translators: paging - selecting page
+#. Example: Page [BUTTON][INPUT] of 100
+msgid "Page %s%s of %s"
+msgstr "Seite %s%s von %s"
+
+msgid "Payment required."
+msgstr "Bezahlung erforderlich."
+
+msgid "Pixel"
+msgstr "Pixel"
+
+msgid "Please select license"
+msgstr "Bitte wählen Sie eine Lizenz"
+
+msgid "Please wait"
+msgstr "Bitte warten Sie"
+
+msgid "Price"
+msgstr "Preis"
+
+msgid "Private"
+msgstr "Privat"
+
+msgid "Private or Public"
+msgstr "Privat oder Öffentlich"
+
+msgid "Private: Each member has their own %s account"
+msgstr "Privat: Jedes Mitglied hat seinen eigenen %s-Account"
+
+msgid "Propertyrelease exists"
+msgstr "Propertyrelease vorhanden"
+
+msgid "Propertyrelease does not exist"
+msgstr "Propertyrelease nicht vorhanden"
+
+msgid "Public"
+msgstr "Öffentlich"
+
+msgid "Public: All members use the same %s account"
+msgstr "Öffentlich: Alle Mitglieder verwenden den gleichen %s-Account"
+
+msgid "Purchase"
+msgstr "Kauf"
+
+msgid "Purchased images"
+msgstr "Gekaufte Bilder"
+
+msgid "Register now"
+msgstr "Jetzt registrieren"
+
+msgid "Reload"
+msgstr "Neu laden"
+
+msgid "Remaining"
+msgstr "Verbleibend"
+
+msgid "Reset all settings to default"
+msgstr "Einstellungen auf Standard zurücksetzen"
+
+msgid "Reset to default filter settings"
+msgstr "Zurücksetzen auf Standard Filtereinstellungen"
+
+msgid "Resources no longer available."
+msgstr "Ressourcen nicht mehr verfügbar."
+
+msgid "Role"
+msgstr "Rolle"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Script-Error."
+msgstr "Skriptfehler."
+
+msgid "Search"
+msgstr "Suche"
+
+msgid "Search filter"
+msgstr "Suchfilter"
+
+msgid "Search for Photos, Vectors and Illustrations"
+msgstr "Suche nach Fotos, Vektoren und Illustrationen"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "Show"
+msgstr "Anzeigen"
+
+msgid "Show media"
+msgstr "In Mediathek anzeigen"
+
+msgid "Size"
+msgstr "Größe"
+
+#. translators: option - roles for using this plugin
+msgid "Smallest role to use the add-function?"
+msgstr "Wird benötigt, um Sub-Accounts hinzufügen zu können."
+
+msgid "Space used"
+msgstr "Verwendeter Speicherplatz"
+
+msgid "Stock photo"
+msgstr "Stock Foto"
+
+#. translators: Type of purchase
+msgid "Subscription"
+msgstr "Abonnement"
+
+msgid "Success."
+msgstr "Erfolgreich."
+
+msgid "Surname"
+msgstr "Nachname"
+
+msgid "Test mode is active!"
+msgstr "Testmodus ist aktiv!"
+
+msgid "This image can be licensed upon request later."
+msgstr "Dieses Bild kann später auf Anfrage lizenziert werden."
+
+msgid "Too many Request."
+msgstr "Zu viele Anfragen."
+
+msgid "Token valid until %s."
+msgstr "Token gültig bis %s."
+
+msgid "Total"
+msgstr "Gesamt"
+
+msgid "Try it again later."
+msgstr "Versuchen Sie es später erneut."
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Unlimited"
+msgstr "Unbegrenzt"
+
+msgid "Username"
+msgstr "Benutzername"
+
+msgid "Using test mode"
+msgstr "Testmodus verwenden"
+
+msgid "Valid until"
+msgstr "Gültig bis"
+
+msgid "Vector"
+msgstr "Vektor"
+
+msgid "We found %s images."
+msgstr "Wir haben %s Bilder gefunden."
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are logged in as %s."
+msgstr "Sie sind eingeloggt als %s"
+
+msgid "You are no longer logged into %s."
+msgstr "Sie sind nicht mehr in %s angemeldet."
+
+msgid "You can see a list of all your free layout downloads at %s"
+msgstr "Eine Auflistung Ihrer heruntergeladenen Bilder finden Sie unter %s"
+
+msgid "You must be logged in."
+msgstr "Sie müssen eingeloggt sein."
+
+msgid "Your account"
+msgstr "Ihr Konto"
+
+msgid "Your credits"
+msgstr "Ihr Credit-Guthaben"
+
+msgid "Your download-quota"
+msgstr "Ihr Download-Kontingent"
+
+#. translators: Size of the license
+msgid "a4"
+msgstr "DIN-A4"
+
+#. translators: Size of the license
+msgid "a6"
+msgstr "DIN-A6"
+
+#. translators: Size of the license
+msgid "blog"
+msgstr "Blog"
+
+#. translators: Size of the license
+msgid "web"
+msgstr "Web"
+
+#. translators: Size of the license
+msgid "xxl"
+msgstr "XXL"
+
+#. translators: License type
+msgid "Standard license"
+msgstr "Standard Lizenz"
+
+#. translators: License type
+msgid "corporate"
+msgstr "Erweiterter Nutzerkreis"
+
+#. translators: License type
+msgid "merchandising"
+msgstr "Wiederverkaufsartikel"
+
+#. translators: License type
+msgid "allext"
+msgstr "Kombi-Lizenz (alle)"
+
+msgid "Included in %s"
+msgstr "In %s enthalten"
+
+#. translators: account-information
+msgid "Corporate account"
+msgstr "Firmenaccount"
+
+msgid "Owner"
+msgstr "Inhaber"
+
+msgid "Can you see media from others"
+msgstr "Können Sie Dateien von anderen sehen"
+
+#. translators: config settings from corporate account
+msgid "Administration"
+msgstr "Verwaltung"
+
+#. translators: select-option for corporate images
+msgid "From all users"
+msgstr "Von allen Benutzern"
+
+#. translators: select-option for corporate images
+msgid "Only from me"
+msgstr "Nur meine Dateien"
+
+msgid "Media info"
+msgstr "Medien Infos"
+
+msgid "License info"
+msgstr "Lizenz Infos"
+
+#. translators: my media - media info
+msgid "Type of media"
+msgstr "Medientyp"
+
+#. translators: my media - button
+msgid "Available sizes"
+msgstr "Verfügbare Größen"
+
+#. translators: my media - button
+msgid "License Proof"
+msgstr "Lizenznachweis"
+
+msgid "Only images from %s can be downloaded in testmode."
+msgstr "Nur Bilder von %s können im Testmodus heruntergeladen werden."
+
+msgid "http://www.panthermedia.net"
+msgstr "http://www.panthermedia.net"
+
+msgid "PantherMedia"
+msgstr "PantherMedia"
+
+msgid "PantherMedia Stock Photo WordPress Plugin"
+msgstr "PantherMedia Stock Photo WordPress Plugin"
+
+msgid "PantherMedia Stock Photo"
+msgstr "PantherMedia Stock Photo"
+
+msgid "test-download not possible with partner media"
+msgstr "Testdownload mit Partnerbildern nicht möglich."
+
+msgid "mm"
+msgstr "mm"
+
+msgid "Click on %s to connect the plugin with your PantherMedia account and get access to all your files and images."
+msgstr "Klicken Sie auf %s, um das Plugin mit Ihrem PantherMedia Account zu verknüpfen und Zugriff auf alle Ihre Dateien und Bilder zu erhalten."
+
+msgid "This image is part of our higher priced Premium Collection."
+msgstr "Dies ist ein Bild aus unserer höherpreisigen Premium-Kollektion."
+
+msgid "This is a rights-managed (RM) image."
+msgstr "Dies ist ein Bild aus unserer Rights-Managed-Kollektion (RM)."
+
+msgid "Rights-Managed"
+msgstr "Rights-Managed"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "RF"
+msgstr "Lizenzfrei"
+
+msgid "RM"
+msgstr "Lizenzpflichtig"
+
+#. translators: License type
+msgid "Extended User Group-License"
+msgstr "Erweiterter Nutzerkreis"
+
+#. translators: License type
+msgid "Merchandising-License"
+msgstr "Wiederverkaufsartikel"
+
+#. translators: License type
+msgid "All-in-one-pack-License"
+msgstr "Kombi-Lizenz (alle)"
+
+#. translators: License type
+msgid "Standard (one country)"
+msgstr "Standard (ein Land)"
+
+#. translators: License type
+msgid "Up to 5 countries"
+msgstr "Bis zu 5 Länder"
+
+#. translators: License type
+msgid "One continent"
+msgstr "Ein Kontinent"
+
+#. translators: License type
+msgid "Worldwide"
+msgstr "Weltweit"
+
+#. translators: License type
+msgid "region"
+msgstr "Bis zu 5 Länder"
+
+#. translators: License type
+msgid "kontinent"
+msgstr "Ein Kontinent"
+
+#. translators: License type
+msgid "welt"
+msgstr "Weltweit"
+
+msgid "This file is not available with %s"
+msgstr "Diese Datei ist mit %s nicht erhältlich."
+
+msgid "Cache is deactivated"
+msgstr "Cache ist deaktiviert"
+
+msgid "Duration"
+msgstr "Nutzungsdauer"
+
+msgid "6 monate"
+msgstr "bis 6 Monate"
+
+msgid "1 jahr"
+msgstr "bis 12 Monate"
+
+msgid "2 jahre"
+msgstr "bis 2 Jahre"
+
+msgid "3 jahre"
+msgstr "bis 3 Jahre"
+
+msgid "5 jahre"
+msgstr "bis 5 Jahre"
